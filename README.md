@@ -1,6 +1,6 @@
 # Design Patterns (C#)
 
-- [x] Abstract Factory
+- [X] Abstract Factory
 - [ ] Adapter
 - [ ] Bridge
 - [ ] Builder
