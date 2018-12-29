@@ -13,7 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\DesignPatterns\AbstractFactoryPattern.csproj" />
+    <ProjectReference Include="..\AbstractFactory\AbstractFactoryPattern.csproj" />
   </ItemGroup>
 
 </Project>

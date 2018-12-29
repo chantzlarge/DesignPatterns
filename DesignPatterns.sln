@@ -3,13 +3,16 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbstractFactoryPattern", "DesignPatterns\AbstractFactoryPattern.csproj", "{91334CFF-DFAA-433C-8029-93D1E5C90349}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbstractFactoryPattern", "AbstractFactory\AbstractFactoryPattern.csproj", "{91334CFF-DFAA-433C-8029-93D1E5C90349}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbstractFactoryPattern.Test", "AbstractFactory.Test\AbstractFactoryPattern.Test.csproj", "{AD31D0B1-CFB9-4B2D-A43E-AFC38E2F5DAF}"
+	ProjectSection(ProjectDependencies) = postProject
+		{91334CFF-DFAA-433C-8029-93D1E5C90349} = {91334CFF-DFAA-433C-8029-93D1E5C90349}
+	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuilderPattern", "BuilderPattern\BuilderPattern.csproj", "{10EF6494-4EAC-4E77-92DE-3B6F1A3F07F1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BuilderPattern", "BuilderPattern\BuilderPattern.csproj", "{10EF6494-4EAC-4E77-92DE-3B6F1A3F07F1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuilderPattern.Test", "BuilderPattern.Test\BuilderPattern.Test.csproj", "{B4FAD3E1-F417-4CFA-A485-6513E0FAD91F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BuilderPattern.Test", "BuilderPattern.Test\BuilderPattern.Test.csproj", "{B4FAD3E1-F417-4CFA-A485-6513E0FAD91F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
