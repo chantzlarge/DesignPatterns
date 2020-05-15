@@ -9,4 +9,4 @@
 ## Languages
 
 * [C#](https://github.com/chantzlarge/DesignPatterns/tree/C%23)
-* go
+* [Go](https://github.com/chantzlarge/DesignPatterns/tree/go)
