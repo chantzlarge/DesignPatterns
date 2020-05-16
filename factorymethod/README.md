@@ -39,5 +39,6 @@ func main() {
 	concreteProduct := concreteCreator.GetProduct()
 
 	log.Printf("%T", product)
-	log.Printf("%T", con
+	log.Printf("%T", concreteProduct)
+}
 ```
