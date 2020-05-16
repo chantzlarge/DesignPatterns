@@ -9,7 +9,7 @@ the same construction process can create differen representations.
 
 ## Structure
 
-<img src="https://docs.google.com/drawings/d/e/2PACX-1vS2h138rKC55G79DAm-yWIwizsY8_d1uSMVgUnizu6PP5uZclO5ALTrxzOt3GeKtBH2MiUJnQrevZKi/pub?w=480&amp;h=360">
+<img src="https://docs.google.com/drawings/d/e/2PACX-1vS2h138rKC55G79DAm-yWIwizsY8_d1uSMVgUnizu6PP5uZclO5ALTrxzOt3GeKtBH2MiUJnQrevZKi/pub?w=960&amp;h=720">
 
 ## Usage
 
