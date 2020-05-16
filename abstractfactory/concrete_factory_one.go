@@ -5,10 +5,10 @@ type ConcreteFactoryOne struct{}
 
 // CreateProductA ...
 func (factory *ConcreteFactoryOne) CreateProductA() AbstractProductA {
-	return &ProductAOne{}
+	return &ConcreteProductAOne{}
 }
 
 // CreateProductB ...
 func (factory *ConcreteFactoryOne) CreateProductB() AbstractProductB {
-	return &ProductBOne{}
+	return &ConcreteProductBOne{}
 }

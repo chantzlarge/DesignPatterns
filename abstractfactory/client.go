@@ -1,19 +1,21 @@
 package main
 
-// Client ...
+// Client uses only interfaces declared by AbstractFactory and AbstractProduct
+// classes.
 type Client struct {
-	abstractProductA AbstractProductA
-	abstractProductB AbstractProductB
+	ProductA AbstractProductA
+	ProductB AbstractProductB
 }
 
 // New ...
 func New(factory AbstractFactory) *Client {
 	return &Client{
-		abstractProductA: factory.CreateProductA(),
-		abstractProductB: factory.CreateProductB(),
+		ProductA: factory.CreateProductA(),
+		ProductB: factory.CreateProductB(),
 	}
 }
 
+// Run ...
 func (client *Client) Run() {
-	client.abstractProductB.Interact(client.abstractProductA)
+	client.ProductB.Interact(client.ProductA)
 }
