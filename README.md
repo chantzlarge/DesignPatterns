@@ -28,7 +28,7 @@ cd <path-to-design-pattern>
 - [x] [Abstract Factory](https://github.com/chantzlarge/design-patterns/tree/go/abstractfactory)
 - [x] [Builder](https://github.com/chantzlarge/design-patterns/tree/go/builder)
 - [x] [Factory Method](https://github.com/chantzlarge/design-patterns/tree/go/factorymethod) 
-- [ ] Prototype 
+- [x] [Prototype](https://github.com/chantzlarge/design-patterns/tree/go/prototype)
 - [ ] Singleton
 
 ### Structural
