@@ -19,31 +19,37 @@
 
 ## Usage
 
-| Status | Name | Type | 
-| --- | --- | --- |
-| ✓ | Creational | Abstract Factory 
-| ❌ | Creational | Builder 
-| ❌ | Creational | Factory Method 
-| ❌ | Creational | Prototype 
-| ❌ | Creational | Singleton 
-| ❌ | Structural | Adapter |
-| ❌ | Structural | Bridge |
-| ❌ | Structural | Composite |
-| ❌ | Structural | Decorator |
-| ❌ | Structural | Facade |
-| ❌ | Structural | Flyweight |
-| ❌ | Structural | Proxy |
-| ❌ | Behavioral | Chain of Responsibility |
-| ❌ | Behavioral | Command |
-| ❌ | Behavioral | Interpreter |
-| ❌ | Behavioral | Iterator |
-| ❌ | Behavioral | Mediator |
-| ❌ | Behavioral | Memento |
-| ❌ | Behavioral | Observer |
-| ❌ | Behavioral | State |
-| ❌ | Behavioral | Strategy |
-| ❌ | Behavioral | Template Method |
-| ❌ | Behavioral | Visitor |
+### Creational
+
+- [x] Abstract Factory 
+- [x] Builder 
+- [ ] Factory Method 
+- [ ] Prototype 
+- [ ] Singleton
+
+### Structural
+
+- [ ] Adapter
+- [ ] Bridge
+- [ ] Composite
+- [ ] Decorator
+- [ ] Facade
+- [ ] Flyweight
+- [ ] Proxy
+
+### Behavioral 
+
+- [ ] Chain of Responsibility
+- [ ] Command
+- [ ] Interpreter
+- [ ] Iterator
+- [ ] Mediator
+- [ ] Memento
+- [ ] Observer
+- [ ] State
+- [ ] Strategy
+- [ ] Template Method
+- [ ] Visitor
 
 ## Contributing
 
