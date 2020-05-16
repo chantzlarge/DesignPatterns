@@ -15,14 +15,18 @@ Design Patterns: Elements of Reusable Object-Oriented Software (1994) is a softw
 
 ### Installation
 
-`git clone <path_to_this_directory>`
+```
+git clone -b go https://github.com/chantzlarge/design-patterns
+cd ./design-patterns
+cd <path-to-design-pattern>
+```
 
 ## Usage
 
 ### Creational
 
-- [x] Abstract Factory 
-- [x] Builder 
+- [x] [Abstract Factory](https://github.com/chantzlarge/design-patterns/tree/go/abstractfactory)
+- [x] [Builder](https://github.com/chantzlarge/design-patterns/tree/go/builder)
 - [ ] Factory Method 
 - [ ] Prototype 
 - [ ] Singleton
