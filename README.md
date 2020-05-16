@@ -1,5 +1,5 @@
 [//]: # (https://gist.github.com/chantzlarge/0241e2a11a4cc49b628332b3520c08af)
-# [@organization](https://github.com/organization)/[repository](https://github.com/organization/repository)
+# [@chantzlarge](https://github.com/chantzlarge)/[design-patterns](https://github.com/chantzlarge/design-patterns/tree/go)
 
 ---
 
@@ -18,7 +18,6 @@ Design Patterns: Elements of Reusable Object-Oriented Software (1994) is a softw
 ```
 git clone -b go https://github.com/chantzlarge/design-patterns
 cd ./design-patterns
-cd <path-to-design-pattern>
 ```
 
 ## Usage
