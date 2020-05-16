@@ -12,9 +12,14 @@
 
 ## Usage
 
+Build
+
 ```
 cd ./abstractfactory
-go build```
+go build
+```
+
+Example
 
 ```go
 func main() {

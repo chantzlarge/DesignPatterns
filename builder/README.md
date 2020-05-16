@@ -13,14 +13,14 @@ the same construction process can create differen representations.
 
 ## Usage
 
-## Building from CLI
+Build
 
 ```bash
 go build
 ./builder
 ```
 
-## Example
+Example
 
 ```go
 package main
@@ -40,6 +40,7 @@ func main() {
 	product := client.builder.GetResult()
 
 	log.Printf("%T", product)
+	// output: 2020/05/16 11:39:42 *main.Product
 }
 ```
 
