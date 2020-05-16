@@ -28,7 +28,7 @@ cd ./design-patterns
 - [x] [Builder](https://github.com/chantzlarge/design-patterns/tree/go/builder)
 - [x] [Factory Method](https://github.com/chantzlarge/design-patterns/tree/go/factorymethod) 
 - [x] [Prototype](https://github.com/chantzlarge/design-patterns/tree/go/prototype)
-- [ ] Singleton
+- [x] [Singleton](https://github.com/chantzlarge/design-patterns/tree/go/singleton)
 
 ### Structural
 
