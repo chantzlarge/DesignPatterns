@@ -19,31 +19,31 @@
 
 ## Usage
 
-| Status | Name | Category | 
+| Status | Name | Type | 
 | --- | --- | --- |
-| ❌ | __Abstract Factory__ | __Creational__ |
-| ❌ | __Builder__ | __Creational__ |
-| ❌ | __Factory Method__ | __Creational__ |
-| ❌ | __Prototype__ | __Creational__ |
-| ❌ | __Singleton__ | __Creational__ |
-| ❌ | __Adapter__ | __Structural__ |
-| ❌ | __Bridge__ | __Structural__ |
-| ❌ | __Composite__ | __Structural__ |
-| ❌ | __Decorator__ | __Structural__ |
-| ❌ | __Facade__ | __Structural__ |
-| ❌ | __Flyweight__ | __Structural__ |
-| ❌ | __Proxy__ | __Structural__ |
-| ❌ | __Chain of Responsibility__ | __Behavioral__ |
-| ❌ | __Command__ | __Behavioral__ |
-| ❌ | __Interpreter__ | __Behavioral__ |
-| ❌ | __Iterator__ | __Behavioral__ |
-| ❌ | __Mediator__ | __Behavioral__ |
-| ❌ | __Memento__ | __Behavioral__ |
-| ❌ | __Observer__ | __Behavioral__ |
-| ❌ | __State__ | __Behavioral__ |
-| ❌ | __Strategy__ | __Behavioral__ |
-| ❌ | __Template Method__ | __Behavioral__ |
-| ❌ | __Visitor__ | __Behavioral__ |
+| ✓ | Creational | Abstract Factory 
+| ❌ | Creational | Builder 
+| ❌ | Creational | Factory Method 
+| ❌ | Creational | Prototype 
+| ❌ | Creational | Singleton 
+| ❌ | Structural | Adapter |
+| ❌ | Structural | Bridge |
+| ❌ | Structural | Composite |
+| ❌ | Structural | Decorator |
+| ❌ | Structural | Facade |
+| ❌ | Structural | Flyweight |
+| ❌ | Structural | Proxy |
+| ❌ | Behavioral | Chain of Responsibility |
+| ❌ | Behavioral | Command |
+| ❌ | Behavioral | Interpreter |
+| ❌ | Behavioral | Iterator |
+| ❌ | Behavioral | Mediator |
+| ❌ | Behavioral | Memento |
+| ❌ | Behavioral | Observer |
+| ❌ | Behavioral | State |
+| ❌ | Behavioral | Strategy |
+| ❌ | Behavioral | Template Method |
+| ❌ | Behavioral | Visitor |
 
 ## Contributing
 
