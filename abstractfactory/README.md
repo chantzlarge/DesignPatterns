@@ -12,6 +12,10 @@
 
 ## Usage
 
+```
+cd ./abstractfactory
+go build```
+
 ```go
 func main() {
 	concreteFactoryOne := &ConcreteFactoryOne{}
@@ -20,7 +24,9 @@ func main() {
 	clientOne := New(concreteFactoryOne)
 	clientTwo := New(concreteFactoryTwo)
 
-    clientOne.Run() // output: 2020/05/16 08:10:21 *main.ConcreteProductBOne interacts with *main.ConcreteProductAOne
-	clientTwo.Run() // output: 2020/05/16 08:10:21 *main.ConcreteProductBTwo interacts with *main.ConcreteProductATwo
+	clientOne.Run() 
+	// output: 2020/05/16 08:10:21 *main.ConcreteProductBOne interacts with *main.ConcreteProductAOne
+	clientTwo.Run() 
+	// output: 2020/05/16 08:10:21 *main.ConcreteProductBTwo interacts with *main.ConcreteProductATwo
 }
 ```
